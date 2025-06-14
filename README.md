@@ -94,3 +94,5 @@ MIT • [github.com/battle-sim/cospd-arena](https://github.com/battle-sim/cospd-
 <div align="center">
 may the best algorithm win
 </div>
+
+# PR Merge: 2025-10-21 - docs/merge-6922
